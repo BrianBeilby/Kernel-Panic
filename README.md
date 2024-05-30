@@ -1,4 +1,4 @@
-# Kernel Panic - Simple Operating System
+# Kernel Panic - Simple Operating Syste
 
 ## Overview
 Kernel Panic is a lightweight, educational operating system designed for academic purposes within the CSC159 - Operating System Pragmatics course at Sacramento State University. This OS provides a hands-on approach to understanding the lower-level workings of modern operating systems.
